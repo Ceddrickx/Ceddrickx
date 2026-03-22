@@ -27,40 +27,29 @@
 
 ---
 
-<!-- STATS + LANGUAGES SIDE BY SIDE -->
+<!-- STATS SECTION LABEL -->
 <div align="center">
 
-## 🔻 `[ SYSTEM STATS ]` &nbsp;&nbsp;&nbsp; 📊 `[ LANGUAGE MATRIX ]`
+## `[ STATS ]`
 
+<!-- ROW 1: SYSTEM STATS + LANGUAGE MATRIX -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ceddrickx&show_icons=true&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&icon_color=FF2D55&text_color=FFFFFF&bg_color=0D0D0D&hide_border=false&rank_icon=github" height="170" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceddrickx&layout=normal&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D&langs_count=6&hide_border=false" height="170" />
 
-</div>
-
----
-
-<!-- STREAK + ACTIVITY SIDE BY SIDE -->
-<div align="center">
-
-## 🔥 `[ STREAK PROTOCOL ]` &nbsp;&nbsp;&nbsp; 📡 `[ ACTIVITY GRID ]`
-
+<!-- ROW 2: STREAK PROTOCOL CENTERED -->
+<br/>
 <img src="https://streak-stats.demolab.com?user=Ceddrickx&theme=dark&border=00FFD1&ring=FF2D55&fire=FF2D55&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA&background=0D0D0D&stroke=00FFD1" height="170" />
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceddrickx&theme=react-dark&color=00FFD1&line=FF2D55&point=FFFFFF&area=true&hide_border=false&border_color=00FFD1" height="170" />
 
 </div>
 
 ---
 
-<!-- VISITOR COUNTER -->
+<!-- ACTIVITY GRID - SEPARATE, BIGGER -->
 <div align="center">
 
-## 👁️ `[ VISITORS DETECTED ]`
+## `[ ACTIVITY GRID ]`
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ceddrickx&color=00FFD1&style=for-the-badge&label=SYSTEM+VISITORS)
-
-![Made in Philippines](https://img.shields.io/badge/Made%20in-Philippines%20🇵🇭-00FFD1?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Always%20Building-FF2D55?style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceddrickx&theme=react-dark&color=00FFD1&line=FF2D55&point=FFFFFF&area=true&hide_border=false&border_color=00FFD1" width="100%" />
 
 </div>
