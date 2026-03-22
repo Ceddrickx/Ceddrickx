@@ -50,12 +50,12 @@
 
 ---
 
-<!-- MOST USED LANGUAGES - PROGRESS BARS -->
+<!-- MOST USED LANGUAGES - NORMAL LAYOUT (horizontal progress bars) -->
 <div align="center">
 
 ## 📊 `[ LANGUAGE MATRIX ]`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceddrickx&layout=bar&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D&langs_count=6" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceddrickx&layout=normal&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D&langs_count=6&hide_border=false" />
 
 </div>
 
@@ -121,10 +121,4 @@
 ![Made in Philippines](https://img.shields.io/badge/Made%20in-Philippines%20🇵🇭-00FFD1?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Always%20Building-FF2D55?style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-<sub>⚡ <i>「 I'm gonna be King of the Pirates! 🏴‍☠️ 」</i> ⚡</sub>
 </div>
