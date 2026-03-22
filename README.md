@@ -12,6 +12,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=System+Online...;Java+%7C+Python+%7C+JavaScript+%7C+HTML%2FCSS;Building+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Code.+Create.+Execute." alt="Typing SVG" />
 
+<!-- LUFFY RUNNING PIXEL ART GIF -->
+<img src="https://media.tenor.com/rMKBSUBLkOEAAAAi/luffy-one-piece.gif" width="120" alt="Luffy Running"/>
+
 </div>
 
 ---
@@ -28,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1&border_color=00FFD1)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -42,8 +45,17 @@
 ## 🔻 `[ SYSTEM STATS ]`
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ceddrickx&show_icons=true&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&icon_color=FF2D55&text_color=FFFFFF&bg_color=0D0D0D&hide_border=false&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceddrickx&layout=compact&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D" height="180"/>
+
+</div>
+
+---
+
+<!-- MOST USED LANGUAGES - PROGRESS BARS -->
+<div align="center">
+
+## 📊 `[ LANGUAGE MATRIX ]`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceddrickx&layout=bar&theme=chartreuse-dark&border_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D&langs_count=6" height="200"/>
 
 </div>
 
@@ -82,6 +94,21 @@
 
 ---
 
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<div align="center">
+
+## 🐍 `[ COMMIT SNAKE ]`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ceddrickx/Ceddrickx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ceddrickx/Ceddrickx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ceddrickx/Ceddrickx/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 <!-- VISITOR COUNTER -->
 <div align="center">
 
@@ -99,5 +126,5 @@
 ---
 
 <div align="center">
-<sub>⚡ <i>「 The grid is alive. Keep building. 」</i> ⚡</sub>
+<sub>⚡ <i>「 I'm gonna be King of the Pirates! 🏴‍☠️ 」</i> ⚡</sub>
 </div>
